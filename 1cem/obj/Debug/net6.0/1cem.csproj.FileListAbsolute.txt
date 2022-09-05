@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yaz\1cem\bin\Debug\net6.0\1cem.exe
+C:\Users\user\Desktop\yaz\1cem\bin\Debug\net6.0\1cem.deps.json
+C:\Users\user\Desktop\yaz\1cem\bin\Debug\net6.0\1cem.runtimeconfig.json
+C:\Users\user\Desktop\yaz\1cem\bin\Debug\net6.0\1cem.dll
+C:\Users\user\Desktop\yaz\1cem\bin\Debug\net6.0\1cem.pdb
+C:\Users\user\Desktop\yaz\1cem\obj\Debug\net6.0\1cem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yaz\1cem\obj\Debug\net6.0\1cem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yaz\1cem\obj\Debug\net6.0\1cem.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yaz\1cem\obj\Debug\net6.0\1cem.AssemblyInfo.cs
+C:\Users\user\Desktop\yaz\1cem\obj\Debug\net6.0\1cem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yaz\1cem\obj\Debug\net6.0\1cem.dll
+C:\Users\user\Desktop\yaz\1cem\obj\Debug\net6.0\refint\1cem.dll
+C:\Users\user\Desktop\yaz\1cem\obj\Debug\net6.0\1cem.pdb
+C:\Users\user\Desktop\yaz\1cem\obj\Debug\net6.0\1cem.genruntimeconfig.cache
+C:\Users\user\Desktop\yaz\1cem\obj\Debug\net6.0\ref\1cem.dll
